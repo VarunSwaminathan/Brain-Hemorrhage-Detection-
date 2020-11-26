@@ -11,3 +11,4 @@ To classify whether a person has brain hemorrhage or not using CT scan image of 
 Kaggle
 
 # Model Architecture 
+![alt text](https://github.com/varunswaminathan57/Brain-Hemorrhage-Detection-/blob/main/j.jpg?raw=true)
